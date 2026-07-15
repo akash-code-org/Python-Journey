@@ -1,4 +1,4 @@
-s = input('Enter the string: ')
+s = input('Enter the string: ') # Dividing string into words:
 L = []
 temp = ''
 for i in s:
