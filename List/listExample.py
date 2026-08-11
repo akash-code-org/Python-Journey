@@ -1,5 +1,5 @@
 L = [1,2,3]
-print(id(L))
+print(id(L)) # id reference address of list
 print(id(L[0]))
 print(id(L[1]))
 print(id(L[2]))
