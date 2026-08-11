@@ -5,4 +5,7 @@ print('*'*5)
 
 # Relation Operators on string
 print('hello'=='hello')
-print('hello'>'world')
+print('hello'>'world')# string mein ascci values ke numbers pr string compare hoti he
+print('coder'!='gamer')
+print('java'>='Python')
+print('jupiter'<='marse')
