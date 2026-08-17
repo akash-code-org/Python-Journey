@@ -1,0 +1,1 @@
+print(list(map(lambda x:'even' if x%2==0 else 'odd',[1,2,3])))
